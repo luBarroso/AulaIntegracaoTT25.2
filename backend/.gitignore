@@ -1,0 +1,14 @@
+.env
+id_rsa_priv.pem
+id_rsa_pub.pem
+src/models/migrations
+node_modules/
+    .DS_Store
+    *.sqlite
+    *.png
+    *.jpg
+    .idea
+    id_rsa_priv.pem
+
+package-lock.json
+    
